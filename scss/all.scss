@@ -1,0 +1,12 @@
+@import "base";
+
+@font-face{
+	font-family:"KrinkesDecorPERSONAL";
+	src:url("../fonts/KrinkesDecorPERSONAL.ttf");
+}
+
+.logo {
+	font-family: $logo-font-family;
+	font-size: $logo-font-size;
+	font-weight: $logo-font-weight;
+}
